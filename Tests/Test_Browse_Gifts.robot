@@ -3,7 +3,7 @@ Documentation    Suite description
 Library  SeleniumLibrary
 
 *** Variables ***
-
+#Browsing home page fernspetals
 ${login_url}  https://www.fnp.com/
 ${browser}  chrome
 
