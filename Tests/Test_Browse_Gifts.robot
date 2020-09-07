@@ -5,6 +5,7 @@ Library  SeleniumLibrary
 *** Variables ***
 #Browsing home page fernspetals for gifts
 ${login_url}  https://www.fnp.com/
+# Naviagtes to www.fnp.com
 ${browser}  chrome
 
 *** Test Cases ***
