@@ -11,6 +11,7 @@ ${browser}  chrome
 Visit Home Page
 
     Open browser to Home Page
+    Maximize Browser Window
     [Teardown]    Close Browser
 
 *** Keywords ***
