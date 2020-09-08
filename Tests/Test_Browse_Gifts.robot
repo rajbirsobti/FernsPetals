@@ -7,6 +7,7 @@ Library  SeleniumLibrary
 ${login_url}  https://www.fnp.com/
 # Naviagtes to www.fnp.com
 ${browser}  chrome
+# Browser opens
 
 *** Test Cases ***
 Visit Home Page
